@@ -1,0 +1,44 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
+    <recentFileMasks>
+      <mask>*..js</mask>
+      <mask>*.ed</mask>
+      <mask>*.e</mask>
+      <mask>*.e2</mask>
+      <mask>*.e2e</mask>
+      <mask>*.e2e.</mask>
+      <mask>*.e2e.js</mask>
+      <mask>*.=.js</mask>
+      <mask>*.==.js</mask>
+      <mask>*P.js</mask>
+      <mask>*Pa.js</mask>
+      <mask>*Page.js</mask>
+      <mask>*spec.js</mask>
+      <mask>*s</mask>
+      <mask>*spec</mask>
+      <mask>*spec.</mask>
+      <mask>*spec.ja</mask>
+      <mask>*spec.java</mask>
+      <mask>*spec.j</mask>
+      <mask>*spec.g</mask>
+      <mask>*spec.groovy</mask>
+      <mask>*</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*test..js</mask>
+      <mask>*test.js</mask>
+      <mask>*arr.js</mask>
+      <mask>*ar.js</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
