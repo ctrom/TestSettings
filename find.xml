@@ -7,9 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*test.js" />
     <recentFileMasks>
-      <mask>*spec</mask>
-      <mask>*spec.</mask>
-      <mask>*spec.ja</mask>
       <mask>*spec.java</mask>
       <mask>*spec.j</mask>
       <mask>*spec.g</mask>
@@ -35,6 +32,9 @@
       <mask>*.dialog.js</mask>
       <mask>*dialog.js</mask>
       <mask>*ialog.js</mask>
+      <mask>*mom.js</mask>
+      <mask>*mome.js</mask>
+      <mask>*moment.js</mask>
       <mask>*.js</mask>
       <mask>*test.js</mask>
     </recentFileMasks>
