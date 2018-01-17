@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test.js" />
+    <option name="FILE_MASK" value="*dialog.js" />
     <recentFileMasks>
-      <mask>*spec.java</mask>
-      <mask>*spec.j</mask>
-      <mask>*spec.g</mask>
       <mask>*spec.groovy</mask>
       <mask>*</mask>
       <mask>*.ks</mask>
@@ -23,20 +20,23 @@
       <mask>settings*.js</mask>
       <mask>*settings*.js</mask>
       <mask>.js</mask>
-      <mask>*d.js</mask>
       <mask>*di.js</mask>
-      <mask>*dial.js</mask>
       <mask>*js</mask>
       <mask>*.djs</mask>
       <mask>*.dialogjs</mask>
       <mask>*.dialog.js</mask>
-      <mask>*dialog.js</mask>
       <mask>*ialog.js</mask>
       <mask>*mom.js</mask>
       <mask>*mome.js</mask>
       <mask>*moment.js</mask>
       <mask>*.js</mask>
       <mask>*test.js</mask>
+      <mask>*do.js</mask>
+      <mask>*d.js</mask>
+      <mask>*diaog.js</mask>
+      <mask>*dia.js</mask>
+      <mask>*dial.js</mask>
+      <mask>*dialog.js</mask>
     </recentFileMasks>
   </component>
 </application>
