@@ -20,7 +20,6 @@
       <mask>settings*.js</mask>
       <mask>*settings*.js</mask>
       <mask>.js</mask>
-      <mask>*di.js</mask>
       <mask>*js</mask>
       <mask>*.djs</mask>
       <mask>*.dialogjs</mask>
@@ -31,11 +30,12 @@
       <mask>*moment.js</mask>
       <mask>*test.js</mask>
       <mask>*do.js</mask>
-      <mask>*d.js</mask>
       <mask>*diaog.js</mask>
-      <mask>*dia.js</mask>
+      <mask>*d.js</mask>
       <mask>*dial.js</mask>
       <mask>*dialog.js</mask>
+      <mask>*dia.js</mask>
+      <mask>*di.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
