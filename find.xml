@@ -8,10 +8,8 @@
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*spec.groovy</mask>
-      <mask>*</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
       <mask>*test..js</mask>
       <mask>*arr.js</mask>
       <mask>*ar.js</mask>
@@ -36,6 +34,8 @@
       <mask>*dialog.js</mask>
       <mask>*dia.js</mask>
       <mask>*di.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
