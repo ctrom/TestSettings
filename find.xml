@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*service.js" />
     <recentFileMasks>
-      <mask>*spec.groovy</mask>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*test..js</mask>
       <mask>*arr.js</mask>
       <mask>*ar.js</mask>
       <mask>set*.js</mask>
@@ -37,6 +33,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*servoce.js</mask>
+      <mask>*servo.js</mask>
+      <mask>*serv.js</mask>
+      <mask>*service.js</mask>
     </recentFileMasks>
   </component>
 </application>
