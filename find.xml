@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*settings*.js</mask>
       <mask>.js</mask>
       <mask>*js</mask>
       <mask>*.djs</mask>
@@ -34,6 +33,7 @@
       <mask>*s.js</mask>
       <mask>*spe.js</mask>
       <mask>*spec.js</mask>
+      <mask>(</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
