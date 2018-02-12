@@ -7,19 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>.js</mask>
-      <mask>*js</mask>
-      <mask>*.djs</mask>
-      <mask>*.dialogjs</mask>
-      <mask>*.dialog.js</mask>
-      <mask>*ialog.js</mask>
-      <mask>*mom.js</mask>
-      <mask>*mome.js</mask>
-      <mask>*moment.js</mask>
-      <mask>*do.js</mask>
-      <mask>*diaog.js</mask>
-      <mask>*d.js</mask>
-      <mask>*dial.js</mask>
       <mask>*dialog.js</mask>
       <mask>*dia.js</mask>
       <mask>*di.js</mask>
@@ -34,8 +21,21 @@
       <mask>*spe.js</mask>
       <mask>*spec.js</mask>
       <mask>(</mask>
+      <mask>s*.js</mask>
+      <mask>syste*.js</mask>
+      <mask>system*.js</mask>
+      <mask>systemH*.js</mask>
+      <mask>systemHi*.js</mask>
+      <mask>systemHistor*.js</mask>
+      <mask>systemHistory*.js</mask>
+      <mask>(systemHistory*.js)</mask>
+      <mask>()</mask>
+      <mask>(*)</mask>
+      <mask>(*.)</mask>
+      <mask>*js</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
