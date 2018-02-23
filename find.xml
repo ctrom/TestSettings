@@ -7,12 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*test..js</mask>
-      <mask>*test.js</mask>
-      <mask>*s.js</mask>
-      <mask>*spe.js</mask>
-      <mask>*spec.js</mask>
-      <mask>(</mask>
       <mask>s*.js</mask>
       <mask>syste*.js</mask>
       <mask>system*.js</mask>
@@ -25,8 +19,6 @@
       <mask>(*)</mask>
       <mask>(*.)</mask>
       <mask>*js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.testjs</mask>
       <mask>*.test.js</mask>
@@ -36,6 +28,14 @@
       <mask>*tem.js</mask>
       <mask>*templ.js</mask>
       <mask>*template.js</mask>
+      <mask>*yam</mask>
+      <mask>*y</mask>
+      <mask>*yal</mask>
+      <mask>*ya</mask>
+      <mask>*yaml</mask>
+      <mask>*/</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
