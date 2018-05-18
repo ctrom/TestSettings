@@ -29,13 +29,13 @@
       <mask>*yaml</mask>
       <mask>*/</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*tets.js</mask>
       <mask>*tet.js</mask>
       <mask>*te.js</mask>
       <mask>*js</mask>
       <mask>*test.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
