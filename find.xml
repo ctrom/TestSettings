@@ -7,9 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>systemHi*.js</mask>
-      <mask>systemHistor*.js</mask>
-      <mask>systemHistory*.js</mask>
       <mask>(systemHistory*.js)</mask>
       <mask>()</mask>
       <mask>(*)</mask>
@@ -36,6 +33,9 @@
       <mask>*test.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*r.js</mask>
+      <mask>*rquest.js</mask>
+      <mask>*request.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
